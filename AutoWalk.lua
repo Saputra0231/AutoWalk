@@ -9,7 +9,7 @@ if CoreGui:FindFirstChild("Yteam-warning") then
 end
 
 local ScreenGui = Instance.new("ScreenGui", CoreGui)
-ScreenGui.Name = "rz-warning"
+ScreenGui.Name = "Yteam-warning"
 ScreenGui.IgnoreGuiInset = true
 Debris:AddItem(ScreenGui, 25)
 
